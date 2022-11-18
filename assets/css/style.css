@@ -110,7 +110,8 @@ p {
 }
 
 .benefit-lead {
-    /* Why can't I rename this? BECAUSE they are linked!! */
+    /* To rename this class you have to change the name of all 'benefit-lead' dependants
+    e.g. benefit-lead img' and 'benefit-lead h3' */
     margin-bottom: 32px;
     color: #ffffff;
 }
