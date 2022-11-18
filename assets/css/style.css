@@ -53,7 +53,7 @@ p {
 }
 
 /* the main header image */
-.hero {    
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -109,7 +109,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {  /* Why can't I rename this??!! */
+.benefit-lead {
+    /* Why can't I rename this??!! */
     margin-bottom: 32px;
     color: #ffffff;
 }
