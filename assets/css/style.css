@@ -110,7 +110,7 @@ p {
 }
 
 .benefit-lead {
-    /* Why can't I rename this??!! */
+    /* Why can't I rename this? BECAUSE they are linked!! */
     margin-bottom: 32px;
     color: #ffffff;
 }
