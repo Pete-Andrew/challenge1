@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6; /* sets the bacground page colour */
 }
 
 /*Header*/
@@ -72,11 +72,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization img {   /* class dependant on (and an extension of) 'search-engine-optimization' */
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.search-engine-optimization h2 {    /* class dependant on (and an extension of) 'search-engine-optimization' */
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -116,12 +116,12 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h3 {      /* class dependant on (and an extension of) 'benefits' */
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.benefit-lead img {     /* class dependant on (and an extension of) 'benefits' */ 
     display: block;
     margin: 10px auto;
     max-width: 150px;
