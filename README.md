@@ -5,7 +5,9 @@
 The aim of this project was to refactor a webpages code to make the code more efficient whilst keeping the web page looking idential to the way it was displayed with the origional code.
 
 I built this project as it was an interesting way to look at how HTML and CSS function together as working unit.
-I helped me further understand the way in which HTML format and CSS work and combine. 
+I helped me further understand the way in which HTML format and CSS work and combine.  
+See it here:  
+https://pete-andrew.github.io/challenge1-pete-andrew/
 
 ## Table of Contents (Optional)
 
